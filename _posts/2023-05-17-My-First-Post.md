@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2023-05-17-My-First-Post.md"
-date: 2023-05-17 22:44:00 +0200
+date: 2023-05-17 22:44:00 +02:00
 categories: Introduction
 ---
 
