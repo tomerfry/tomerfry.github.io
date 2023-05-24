@@ -98,7 +98,7 @@ user@ubuntu:~/fusion/level01$ iaito ./level01
 ```
 * And there you go...
 
-<img src="radare2-iaiot.png" />
+<img src="/assets/radare2-iaiot.png" />
 
 
 ---
