@@ -3,7 +3,7 @@ layout: post
 title: "Using Radare2"
 date: 2023-05-24 06:35:00 +02:00
 author: "Tomer Goldschmidt"
-tags: tools, radare2
+tags: tools radare2
 ---
 
 
