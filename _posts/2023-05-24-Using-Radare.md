@@ -97,12 +97,8 @@ user@ubuntu:~/fusion/level01$ sudo r2pm -ci iaito
 user@ubuntu:~/fusion/level01$ iaito ./level01
 ```
 * And there you go...
-![[Ubuntu 64-bit - VMware Workstation 2023-05-24 17-54-10.mp4]]
 
-<video controls autoplay>
-  <source src="assets/radare2.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<img src="assets/radare2-iaiot.png" />
 
 
 ---
