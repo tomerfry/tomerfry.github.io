@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Exploit Education - Fusion - Level 0x00"
+title: "Using Radare2"
 date: 2023-05-24 06:35:00 +02:00
 author: "Tomer Goldschmidt"
 tags: tools, radare2
