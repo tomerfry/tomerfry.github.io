@@ -23,7 +23,7 @@ First thing I thought might be beneficial for me was to reproduce the results fr
 
 The following describes the steps I took to reproduce the results:
 1. Downloaded sources for `nmap` from [https://nmap.org/download.html](https://nmap.org/download.html)
-<img src="/assets/2023052614749.png" />
+<img src="/assets/20230526014749.png" />
 
 2. Started the `AFL++` docker and started prepping for fuzzing session
 ```bash
@@ -43,6 +43,7 @@ user@ubuntu:~/fuzzin-nmap/nmap-src/$ docker run -ti -v `pwd`:/src aflplusplus/af
 ```
 
 <img src="/assets/20230526021804.png" />
+
 After some time letting the session go, I stopped it with the understanding that its not so optimal. The author of the article even presented his conclusions for his demonstration. One of which, to make the fuzzing more focused.
 
 ---
