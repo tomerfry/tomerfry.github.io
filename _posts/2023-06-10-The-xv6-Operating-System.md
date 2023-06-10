@@ -6,7 +6,6 @@ author: "Tomer Goldschmidt"
 tags: OS xv6 Kernel
 ---
 
-
 In this post I will be reviewing my experience with solving course exercises I found regarding the `xv6` Operating System.
 The course is "CSE-451: Operating Systems" from Washington University. The exercises are free and open in the following [link](https://courses.cs.washington.edu/courses/cse451/16au/exercises/).
 
